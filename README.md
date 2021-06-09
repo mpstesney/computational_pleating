@@ -7,6 +7,8 @@ Our workflow integrates traditional pleating and folding techniques into a digit
 
 ### Core Workflow
 
+A designer creates line geometry in the Rhino work area using layers representing each type of fold supported by the origami simulator. The type of fold is set by the layer and the angle of the fold is set explicitly by using the line object’s “Name” property. At any point, the designer can visualize the design by saving a FOLD file of the design and uploading it to the simulator.
+
 <img src="/images/basic_workflow.jpg" alt="basic workflow" width="500" />
 <img src="/images/basic_examples.jpg" alt="basic workflow" width="500" />
 
