@@ -7,8 +7,7 @@ Our tool integrates traditional pleating and folding techniques into a digital d
 
 ### The Tool
 
-![basic workflow](/images/basic workflow.jpg)
-
+<img src="/images/basic_workflow.jpg" alt="basic workflow" width="600" />
 
 Each team member demostrated the tool by developing their own creative scripts to algorithmically generate fold patterns. Some results from my scripts are shown below. Check out the [report](https://courses.ideate.cmu.edu/16-455/s2020/1998/pleating-final-report/) for the great results produced by my teammates. 
 
