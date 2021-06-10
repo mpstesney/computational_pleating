@@ -1,5 +1,5 @@
 """
-Save input string as .FOLD file in local directory
+Save input string as .FOLD file in local directory.
 
 filePath parsing from:
 https://www.grasshopper3d.com/forum/topics/
