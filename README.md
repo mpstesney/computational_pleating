@@ -44,7 +44,11 @@ Knife fold pattern 4
 
 Demonstration of the variable dynamic qualities of the fold patterns
 
-### Future work:
+### Code
+
+
+
+### Future work
 
 * Add the code that created examples of the geometry shown here and in the project report
 * Package code as a Grasshopper plug-in and share on [Food4Rhino](https://www.food4rhino.com/en)
