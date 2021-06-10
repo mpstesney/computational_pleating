@@ -48,7 +48,7 @@ Demonstration of the variable dynamic qualities of the fold patterns
 
 <img src="/images/gh_canvas.png" alt="grasshopper canvas" width="500" />
 
-Each python file is associated with a similarly named GhPython component.
+To run the code in Grasshopper, copy each Python file into its own GhPython Grasshopper component.
 
 ### Future work
 
